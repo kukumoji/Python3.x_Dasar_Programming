@@ -3,7 +3,7 @@ b = 3
 
 # penjumlahan
 c = a + b
-print("hasil a + b = ", c)
+print(c)
 
 # pengurangan
 c = a - b
